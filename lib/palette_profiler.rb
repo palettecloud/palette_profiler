@@ -1,6 +1,5 @@
 require "palette_profiler/version"
+require "palette_profiler/object_counter"
 
 module PaletteProfiler
-  class Error < StandardError; end
-  # Your code goes here...
 end
