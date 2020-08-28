@@ -1,4 +1,5 @@
 require "bundler/setup"
+require "pry"
 require "palette_profiler"
 
 RSpec.configure do |config|
